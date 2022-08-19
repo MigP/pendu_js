@@ -1,0 +1,24 @@
+#label {
+    font-size: 2em;
+    color: burlywood;
+}
+
+#userInput {
+    font-size: 1em;
+    height: 2em;
+    border-radius: 1em;
+    padding: 0 0.5em;
+}
+
+#guessBtn {
+    background-color: bisque;
+    padding: 0.5em;
+    border-radius: 1em;
+    font-size: 1em;
+}
+
+#hidden_word {
+    font-size: 4em;
+    color: blue;
+    background-color: wheat;
+}
